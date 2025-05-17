@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+    <infoBlock id="protein-tov1">
+        <pict>WizLab_Whey_Choco.jpg</pict>
+        <name>100% Whey Protein Concentrate</name>
+        <text>100% сывороточный протеин с содержание белка 77% без добавления сахара, повышенным содержание глютамина и приятным вкусом.</text>
+        <cost>60 руб.</cost>
+    </infoBlock>
+    <infoBlock id="protein-tov2">
+        <pict>dym-min.jpg</pict>
+        <name>Elite Whey Protein</name>
+        <text>Протеиновая смесь концентрата сывороточного протеина, приготовленного с применением технологии перекрестной воздушной обработки, ионо-обменного сывороточного изолята и сывороточных пептидов.</text>
+        <cost>156 руб.</cost>
+    </infoBlock>
+    <infoBlock id="protein-tov3">
+        <pict>RPS-Nutrition-Whey-paket-double-chocolate-min.jpg</pict>
+        <name>Whey Protein</name>
+        <text>Премиум протеин, изготовленный из высококачественного сырья с содержанием L-Glutamine, содержанием белка до 80% и превосходным вкусом</text>
+        <cost>48 руб.</cost>
+    </infoBlock>
+    <infoBlock id="protein-tov4">
+        <pict>isoZeroWhey.jpg</pict>
+        <name>Iso Whey Zero</name>
+        <text>Чистейший сывороточный изолят, не содержащий лактозы, транс жиров и сахара.</text>
+        <cost>106.50 руб.</cost>
+    </infoBlock>
+    <infoBlock id="protein-tov5">
+        <pict>excellentWhey.jpg</pict>
+        <name>Excellent Whey</name>
+        <text>Концентрат сывороточного белка с добавлением пребиотиков – веществ, улучшающих здоровье ЖКТ и увеличивающих усвояемость белка.</text>
+        <cost>96 руб.</cost>
+    </infoBlock>
+
+
+    <infoBlock id="creatine-tov1">
+        <pict>CR-1.jpg</pict>
+        <name>Creatine</name>
+        <text>100% креатин моногидрат в порошковой форме.</text>
+        <cost>87 руб.</cost>
+    </infoBlock>
+    <infoBlock id="creatine-tov2">
+        <pict>creatine-monohydrate.jpg</pict>
+        <name>Creatine Monohydrate</name>
+        <text>Креатин моногидрат, проверенный при помощи жидкостной хроматографии высокого давления, которая показывает его 100% чистоту.</text>
+        <cost>78 руб.</cost>
+    </infoBlock>
+    <infoBlock id="creatine-tov3">
+        <pict>WizLab_Creatine_300g (1).jpg</pict>
+        <name>100% Creatine Micronized</name>
+        <text>100% Creatine Micronized - это чистый креатин моногидрат в микронизированной форме, которая быстро усваивается и помогает увеличить силу, выносливость и массу мышц.</text>
+        <cost>54 руб.</cost>
+    </infoBlock>
+    <infoBlock id="creatine-tov4">
+        <pict>CR9-min.jpg</pict>
+        <name>Creatine Monohydrate</name>
+        <text>Способствует набору мышечной массы, повышению силы и выносливости, приданию мощного заряда энергии, а также эффективному восстановлению после нагрузок</text>
+        <cost>84 руб.</cost>
+    </infoBlock>
+    <infoBlock id="creatine-tov5">
+        <pict>maxler-100-golden-creatine-300g.jpg</pict>
+        <name>100% Golden Creatine</name>
+        <text>Увеличивает выносливость, рост объема мышц, оказывает положительное влияние на синтез белка, уменьшает боли в мышцах и восстанавливает после тренировок.</text>
+        <cost>90 руб.</cost>
+    </infoBlock>
+
+
+    <infoBlock id="suppl-before-tren1">
+        <pict>BCAA-Glutamine.png</pict>
+        <name>BCAA+Glutamine</name>
+        <text>BCAA+Glutamine - уникальный продукт для дополнительной энергии и восстановления вашего организма</text>
+        <cost>69 руб.</cost>
+    </infoBlock>
+    <infoBlock id="suppl-before-tren2">
+        <pict>black-kick-min.jpg</pict>
+        <name>Black Kick</name>
+        <text>Энергетический кофеино-гуарановый продукт на углеводной основе с витаминами и минералами.</text>
+        <cost>40 руб.</cost>
+    </infoBlock>
+    <infoBlock id="suppl-before-tren3">
+        <pict>carnitine1.jpg</pict>
+        <name>RPS L-Carnitine</name>
+        <text>L-карнитин премиум класса, усиливающий утилизацию жира при повышении уровня метаболизма.</text>
+        <cost>99 руб.</cost>
+    </infoBlock>
+    <infoBlock id="suppl-before-tren4">
+        <pict>Olimp-Creatine-Xplode-Powder-min.jpg</pict>
+        <name>Creatine MonoPower Xplode</name>
+        <text>Сильнодействующий креатиновый комплекс, сочетающий в себе несколько видов креатина и дополнен таурином.</text>
+        <cost>168 руб.</cost>
+    </infoBlock>
+    <infoBlock id="suppl-before-tren5">
+        <pict>cla-min.jpg</pict>
+        <name>CLA</name>
+        <text>биодобавка на основе конъюгированной линолевой кислоты (CLA). Она является одной из форм известной линолевой кислоты (LA), относящейся к омега-6-ненасыщенным жирным кислотам.</text>
+        <cost>48 руб.</cost>
+    </infoBlock>
+
+</goods>

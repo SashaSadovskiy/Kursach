@@ -1,0 +1,724 @@
+body {
+    font-size: 18px;
+    width: 1fr;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #6D4242;
+}
+.logo {
+    display: inline-block;
+    width: 15%;
+    height: 120px;
+    margin-left: -15px;
+}
+.nav {
+    display: inline-block;
+    width: 70%;
+    height: auto;
+}
+
+
+.point {
+    height: 15px;
+    width: 15px;
+    margin: 0px 0px 0px 0px;
+}
+.arrowD {
+    height: 12px;
+    width: 20px;
+    margin: 0px 0px 0px 0px;
+}
+.inp {
+    height: 15px;
+    width: 15px;
+    margin: 0px 2px 0px 0px;
+}
+.trash {
+    height: 15px;
+    width: 15px;
+    margin: 0px 2px 0px 0px;
+}
+
+.nav>.first>li {
+    position: absolute;
+    width: 210px;
+    height: 30px;
+    border: 1px solid black;
+    padding-left: 5px;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+    padding-top: 7px;
+    margin-top: -60px;
+} 
+li {
+    text-align: left;
+}
+.nav .second {
+    position: relative;
+    left: -46px;
+    display: none;
+}
+.nav li:hover .second {
+    display: block;
+}
+.first {
+    list-style-type: none;
+}
+.second {
+    margin-top: 7.5px;
+    list-style-type: none;
+}
+.url {
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+}
+.nav>.first>li>.second>li {
+    border: 1px solid black;
+    width: 205px;
+    height: 35px;
+    padding-left: 10px;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+}
+
+.Pmain {
+    margin-left: 70px;
+    margin-right: 10px;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Pinf {
+    margin-left: 300px;
+    margin-right: 20px;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Pshops {
+    margin-left: 530px;
+    margin-right: 20px;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Pinput {
+    margin-left: 760px;
+    margin-right: 20px;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Ptrash {
+    margin-left: 990px;
+    margin-right: 20px;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+footer {
+    width: 100%;
+    height: 170px;
+    background-color: #2B2B2B;
+    font-size: 18px;
+}
+.FText {
+    display: inline-block;
+    width: 700px;
+    color: white;
+}
+.Fleft {
+    margin: 25px 0px 0px 10px;
+}
+.Fright {
+    text-align: right;
+    margin: 0px 20px 0px 0px;
+    height: 25px;
+}
+.Fimg {
+    margin: 0px 0px -10px 520px;
+    height: 55px;
+}
+
+
+
+main {
+    background-color: #6D4242;
+}
+.razd {
+    list-style-type: none;
+    margin: 0px 0px 0px 10px;
+    padding: 50px 0px 50px 10px;
+}
+.razd li {
+    margin: 20px 0px 20px 0px;
+    width: 80%;
+    height: 45px;
+    background-color: #2B2B2B;
+}
+.Rurl {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 25% 45% 30%;
+    grid-template-rows: 30% 25% 30%;
+    grid-gap: 5px;
+}
+.DivFormainPic {
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+.mainPic {
+    width: 99.3%;
+    height: 450px;
+    margin: 0px 0px 0px 0px;
+}
+.Gul {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.pop {
+    margin-top: 20px;
+    grid-column: 2/4;
+    grid-row: 2/3;
+}
+.inf {
+    margin-top: 20px;
+    grid-column: 1/4;
+    grid-row: 3/4;
+}
+
+.popPict {
+    display: inline-block;
+    width: 225px;
+    height: 260px;
+    text-align: center;
+    color: white;
+    margin: 0px 10px 5px 10px;
+}
+.PictureP {
+    width: 225px;
+    height: 225px;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+.podH1 {
+    color: white;
+    text-align: center;
+    margin: 10px 0px 30px 0px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    margin: 10px 0px 30px 0px;
+}
+.infPict {
+    display: inline-block;
+    width: 460px;
+    height: 360px;
+    margin: 0px 10px 15px 10px;
+}
+.Pictinf {
+    width: 460px;
+    height: 320px;
+}
+.infUrl {
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    font-size: 26px;
+}
+.paragInf {
+    color: white;
+    margin: 5px 0px 0px 80px;
+    font-size: 22px;
+    width: 90%;
+}
+
+
+.D-stoim {
+    margin: 25px 52px 0px 52px;
+    width: 1400px;
+    height: 60px;
+    display: block;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+.itog {
+    margin: 20px 0px 15px 15px;
+    float: left;
+    width: 200px;
+}
+.stoim {
+    margin: 20px 70px 15px 0px;
+    float: right;
+    width: 130px;
+}
+.tovH1 {
+    color: white;
+    text-align: left;
+    margin: 0px 0px 25px 250px;
+}
+.container-tovar {
+    margin: 25px 52px 25px 52px;
+    width: 1400px;
+    height: 180px;
+    display: block;
+    color: black;
+    background-color: white;
+    position: relative;
+    border-radius: 5px;
+}
+.imgTov {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 15px 10px 15px 15px;
+}
+.imgTov>img {
+    width: 90px;
+    height: 150px;
+    margin: 0px 30px 0px 30px;
+}
+.OpisTov {
+    width: 550px;
+    height: 180px;
+    display: inline-block;
+    position: absolute;
+    margin: 15px 0px 15px 50px;
+}
+h3 {
+    margin: 15px 0px 10px 0px;
+}
+.OpisTov p {
+    margin: 10px 0px 10px 0px;
+}
+.StoimTov {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    position: absolute;
+    margin: 15px 0px 15px 1000px;
+}
+.StoimTov>p {
+    text-align: center;
+    margin: 64px 0px 64px 0px;
+}
+
+.buttons {
+    margin: 25px 50px 10px 54px;
+    width: 1400px;
+    height: 100px;
+    display: block;
+}
+input[type="button"] {
+    float: inline-end;
+    width: 300px;
+    height: 50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 0px 0px 0px 0px;
+}
+.b1 {
+    margin-left: 10px;
+    background-color: #B62424;
+    color: white;
+    font-size: 20px;
+}
+.b2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+.main-container {
+    margin: 0px 0px 25px 0px;
+    display: block;
+}
+.main-container-form {
+    display: block;
+    margin: 25px 0px 0px 0px;
+}
+
+.type-of-delivery {
+    margin: 10px 0px 0px 0px;
+    display: block;
+    height: 450px;
+}
+
+.types-of-del {
+    list-style-type: none;
+    margin: 25px 52px 25px 52px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.radio-container {
+    display: flex;
+    width: 1370px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px 15px;
+    color: black;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+.radio-label {
+    font-size: 20px;
+    padding: 10px 0px 0px 0px;
+}
+.radio-price {
+    font-size: 20px;
+    margin-right: 20px;
+}
+input[type="radio"] {
+    margin: 0;
+    transform: scale(1.2);
+    float: left;
+    margin: 25px 30px 10px 20px
+}
+.typeRB {
+    width: 500px;
+    height: 65px;
+}
+
+.Ptypes {
+    display: inline-block;
+    width: 500px;
+}
+.types-of-p {
+    list-style-type: none;
+    width: 1400px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin: -15px 0px 80px 0px;
+    padding: 0px 0px 0px 52px;
+}
+.N-radio-label {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin: 20px 0px 0px 0px;
+    flex-grow: 1; 
+    justify-content: flex-start;
+}
+.N-radio-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px 15px;
+    color: black;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+
+
+.input-name {
+    width: 440px;
+    height: 65px;
+    display: inline-block;
+    padding: 10px 20px 10px 40px;
+    margin: 0px 170px 15px 0px;
+    border-radius: 5px;
+}
+.input-number {
+    width: 440px;
+    height: 65px;
+    display: inline-block;
+    padding: 10px 20px 10px 40px;
+    margin: 0px 0px 15px 170px;
+    border-radius: 5px;
+}
+.input-address {
+    display: inline-block;
+    width: 1340px;
+    height: 65px;
+    padding: 10px 20px 10px 40px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+.input-comment {
+    display: inline-block;
+    width: 1340px;
+    height: 220px;
+    padding: 25px 20px 10px 40px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+.label {
+    padding: 0px 0px 0px 52px;
+}
+form {
+    margin: 10px 0 0px 0px;
+    height: 700px;
+    width: 1480px;
+    padding: 10px 10px 10px 10px;
+}
+input[type="text"] {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+textarea {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: Segoe UI;
+    resize: none;
+}
+.form-button {
+    margin: 10px 26px 10px 10px;
+    background-color: #B62424;
+    color: white;
+    font-size: 20px;
+}
+
+
+.main-container-for-page-razd {
+    height: 1150px;
+    margin: 0px 0px 0px 0px;
+}
+.container-tovar-for-page-razd {
+    margin: 25px 52px 25px 52px;
+    width: 1400px;
+    height: 180px;
+    display: block;
+    color: black;
+    background-color: white;
+    position: relative;
+    border-radius: 5px;
+}
+#menu {
+    opacity: 0;
+}
+
+
+
+
+@media (max-width: 768px) {
+    
+    @media (max-width: 768px) {
+        .mainPic {
+            height: 250px;
+            width: 100%
+        }
+
+        #menu {
+            opacity: 0;
+        }
+
+        .menu_btn {
+            display: flex;
+            align-items: center;
+            position: absolute;
+            margin-left: 10px;
+            margin-top: 5px;
+            width: 26px;
+            height: 26px;
+            cursor: pointer;
+            z-index: 2;
+        }
+
+        .menu_btn > span,
+        .menu_btn > span::before,
+        .menu_btn > span::after {
+            display: block;
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            background-color: #616161;
+        }
+
+        .menu_btn > span::before {
+            content: '';
+            top: -8px;
+        }
+
+        .menu_btn > span::after {
+            content: '';
+            top: 8px;
+        }
+
+        .first {
+            display: block;
+            position: fixed;
+            visibility: hidden;
+            top: 0;
+            left: -100%;
+            width: 250px;
+            height: 100%;
+            margin: 0;
+            padding: 80px 0;
+            list-style: none;
+            text-align: center;
+            background-color: #ECEFF1;
+            box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
+            z-index: 1;
+        }
+
+        #menu:checked ~ .first {
+            visibility: visible;
+            left: 0;
+        }
+
+        .first {
+            transition-duration: 0.25s;
+        }
+
+        li, .Pmain, .Pinf, .Pshops, .Pinput, .Ptrash {
+            display: block;
+            border: 1px solid black;
+            text-align: center;
+            margin: 10px;
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .nav .second {
+            position: static;
+            display: none;
+        }
+
+        .nav li:hover .second {
+            display: block;
+            position: static;
+            margin-left: 10px;
+        }
+
+        .second li {
+            width: 90%;
+            margin: 5px auto;
+        }
+
+        .grid {
+            display: block;
+            grid-template-columns: none;
+            grid-template-rows: auto;
+        }
+
+        .Gul, .pop, .inf {
+            grid-column: auto;
+            grid-row: auto;
+            width: 100%;
+            margin: 0;
+        }
+
+        .razd {
+            padding: 20px 0;
+        }
+
+        .razd li {
+            width: 90%;
+            margin: 10px auto;
+        }
+
+        .popPict {
+            width: 100%;
+            height: auto;
+            margin: 10px 0;
+            display: block;
+        }
+
+        .PictureP {
+            width: 100%;
+            height: auto;
+        }
+
+        .infPict {
+            width: 100%;
+            height: auto;
+            margin: 10px 0;
+            display: block;
+        }
+
+        .Pictinf {
+            width: 100%;
+            height: auto;
+        }
+
+        .paragInf {
+            width: 90%;
+            margin: 5px auto;
+            font-size: 16px;
+        }
+
+        .D-stoim, .container-tovar, .container-tovar-for-page-razd, .buttons, .type-of-delivery, .types-of-p, .radio-container, .input-address, .input-comment, form {
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .input-name, .input-number {
+            width: 90%;
+            margin: 0 0 15px 0;
+            display: block;
+        }
+
+        .StoimTov {
+            margin: 15px 0 15px 50%;
+            transform: translateX(-50%);
+        }
+
+        .OpisTov {
+            position: static;
+            width: 60%;
+            margin: 15px auto;
+        }
+
+        .imgTov {
+            margin: 15px auto;
+            display: block;
+        }
+
+        .form-button {
+            width: 90%;
+            margin: 10px auto;
+            display: block;
+        }
+
+        footer .FText {
+            width: 100%;
+            text-align: center;
+        }
+
+        .Fimg {
+            margin: 0 auto;
+            display: block;
+        }
+
+        .Fright {
+            text-align: center;
+            margin: 0 auto;
+        }
+    }
+}
